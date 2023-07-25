@@ -1,2 +1,1 @@
-alert("momen");
-document.write("Hello MOmen")
+document.write("From JS file")
