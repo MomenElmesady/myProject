@@ -1,1 +1,1 @@
-alert("momen");
+document.write("From JS file")
